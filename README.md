@@ -1,6 +1,4 @@
 FriendStalker
 =============
 
-This is the branch for the website and the main features that David did.  
-
-Project repository
+Augmented reality online mobile game that uses your location to find targets, other players, to assassinate.
